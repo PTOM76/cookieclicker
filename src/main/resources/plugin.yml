@@ -1,0 +1,13 @@
+main: ml.pkom.cookieclicker.Plugin
+name: cookieclicker
+description: "This plugin is CookieClicker."
+version: "1.0.0"
+author: "K"
+website: "http://pkom.ml/?Minecraft/Spigot/%E8%87%AA%E4%BD%9C%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3"
+commands:
+  cookieclicker:
+    description: "Open CookieClicker's Gui"
+    usage: "/cookieclicker"
+  cookies:
+    description: "cookies"
+    usage: "/cookies"

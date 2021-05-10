@@ -1,0 +1,164 @@
+[22:34:06] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[22:34:06] [Server thread/INFO]: Loading properties
+[22:34:06] [Server thread/INFO]: Default game type: SURVIVAL
+[22:34:06] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-dcd1643-e60fc34 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[22:34:06] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:34:06] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:34:06] [Server thread/INFO]: Debug logging is disabled
+[22:34:06] [Server thread/INFO]: Generating keypair
+[22:34:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:34:06] [Server thread/INFO]: Using default channel type
+[22:34:07] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[22:34:07] [Server thread/INFO]: [cookieclicker] Loading cookieclicker v1.0.0
+[22:34:07] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[22:34:07] [Server thread/INFO]: Preparing level "world"
+[22:34:07] [Server thread/INFO]: -------- World Settings For [world] --------
+[22:34:07] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:34:07] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:34:07] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:34:07] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:34:07] [Server thread/INFO]: View Distance: 10
+[22:34:07] [Server thread/INFO]: Random Lighting Updates: false
+[22:34:07] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[22:34:07] [Server thread/INFO]: Max TNT Explosions: 100
+[22:34:07] [Server thread/INFO]: Structure Info Saving: true
+[22:34:07] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:34:07] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:34:07] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:34:07] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:34:07] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:34:07] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:34:07] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[22:34:07] [Server thread/INFO]: Mob Spawn Range: 4
+[22:34:07] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:34:07] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:34:07] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:34:07] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:34:07] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:34:07] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:34:07] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:34:07] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:34:07] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:34:07] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:34:08] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[22:34:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:34:08] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:34:08] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:34:08] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:34:08] [Server thread/INFO]: View Distance: 10
+[22:34:08] [Server thread/INFO]: Random Lighting Updates: false
+[22:34:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[22:34:08] [Server thread/INFO]: Max TNT Explosions: 100
+[22:34:08] [Server thread/INFO]: Structure Info Saving: true
+[22:34:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:34:08] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:34:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:34:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:34:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:34:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:34:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[22:34:08] [Server thread/INFO]: Mob Spawn Range: 4
+[22:34:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:34:08] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:34:08] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:34:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:34:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:34:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:34:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:34:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:34:08] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:34:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:34:08] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[22:34:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:34:08] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:34:08] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:34:08] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:34:08] [Server thread/INFO]: View Distance: 10
+[22:34:08] [Server thread/INFO]: Random Lighting Updates: false
+[22:34:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[22:34:08] [Server thread/INFO]: Max TNT Explosions: 100
+[22:34:08] [Server thread/INFO]: Structure Info Saving: true
+[22:34:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:34:08] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:34:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:34:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:34:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:34:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:34:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[22:34:08] [Server thread/INFO]: Mob Spawn Range: 4
+[22:34:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:34:08] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:34:08] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:34:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:34:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:34:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:34:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:34:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:34:08] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:34:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:34:08] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3670948436930398393)
+[22:34:09] [Server thread/INFO]: Preparing spawn area: 29%
+[22:34:10] [User Authenticator #1/INFO]: UUID of player Pitan_MAD is dcdb8e88-440b-4857-a0aa-6c345805ec2c
+[22:34:10] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3670948436930398393)
+[22:34:11] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3670948436930398393)
+[22:34:11] [Server thread/INFO]: [cookieclicker] Enabling cookieclicker v1.0.0
+[22:34:11] [Server thread/INFO]: [cookieclicker] CookieClicker is enabled!
+[22:34:11] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:34:11] [Server thread/INFO]: Done (4.247s)! For help, type "help" or "?"
+[22:34:12] [Server thread/INFO]: Pitan_MAD[/127.0.0.1:50453] logged in with entity id 253 at ([world]-63.857209593249024, 71.0, 272.3926304250397)
+[22:34:18] [Server thread/INFO]: Pitan_MAD issued server command: /cookies
+[22:34:20] [Server thread/INFO]: Pitan_MAD issued server command: /cookies pitan
+[22:34:24] [Server thread/INFO]: Pitan_MAD issued server command: /cookies pitaa
+[22:34:24] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'cookies' in plugin cookieclicker v1.0.0
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1399) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1234) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+Caused by: java.lang.NullPointerException
+	at ml.pkom.cookieclicker.Plugin.loadPlayerSaveData(Plugin.java:62) ~[?:?]
+	at ml.pkom.cookieclicker.Plugin.addUser(Plugin.java:91) ~[?:?]
+	at ml.pkom.cookieclicker.Plugin.onCommand(Plugin.java:119) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	... 15 more
+[22:35:35] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[22:35:35] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[22:35:35] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[22:35:35] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[22:35:35] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[22:35:35] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[22:35:44] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[22:35:46] [Server thread/INFO]: Stopping the server
+[22:35:46] [Server thread/INFO]: Stopping server
+[22:35:46] [Server thread/INFO]: [cookieclicker] Disabling cookieclicker v1.0.0
+[22:35:46] [Server thread/ERROR]: Error occurred while disabling cookieclicker v1.0.0 (Is it up to date?)
+java.lang.NullPointerException: null
+	at ml.pkom.cookieclicker.Plugin.saveCookieConfig(Plugin.java:74) ~[?:?]
+	at ml.pkom.cookieclicker.Plugin.onDisable(Plugin.java:56) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:266) ~[spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:361) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:422) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:415) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.disablePlugins(CraftServer.java:349) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.stop(MinecraftServer.java:465) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:613) [spigot-1.12.2.jar:git-Spigot-dcd1643-e60fc34]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[22:35:46] [Server thread/INFO]: Saving players
+[22:35:46] [Server thread/INFO]: Pitan_MAD lost connection: Server closed
+[22:35:46] [Server thread/INFO]: Pitan_MAD left the game
+[22:35:46] [Server thread/INFO]: Saving worlds
+[22:35:46] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[22:35:47] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
+[22:35:47] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end
