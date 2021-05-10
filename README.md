@@ -1,1 +1,1 @@
-"# cookieclicker" 
+# cookieclicker
